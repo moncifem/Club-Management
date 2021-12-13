@@ -1,0 +1,2 @@
+Etudiant [nom=sgdf, prenom=dcd, annee=1, semestre=1, comment=, etatcivil=Mme, rn=[NiveauPreference [niveau=Debutant, preference=Preference [name=Go]]]]
+Etudiant [nom=moncef, prenom=moncef, annee=1, semestre=1, comment=, etatcivil=Mr, rn=[NiveauPreference [niveau=Debutant, preference=Preference [name=Go]]]]
