@@ -1,11 +1,12 @@
 A simple club management app based on Java. 
 
 On it's beta version capable of getting users into a file etudiants.txt
-<br />
+<br />Currently developping /src/dao implementation for database~java connection 
 ![alt text](https://github.com/moncifem/Club-Management/blob/main/build/App%20screen.jpg)
 ![alt text](https://github.com/moncifem/Club-Management/blob/main/build/App2%20screen.jpg)
 ![alt text](https://github.com/moncifem/Club-Management/blob/main/build/App3%20screen.jpg)
-
+![alt text](https://github.com/moncifem/Club-Management/blob/main/build/App4%20screen.jpg)
+<br />
 Future version may have additional and more control over the app such as modifiying users informations.
 
 club.jar is generated with the IDE
