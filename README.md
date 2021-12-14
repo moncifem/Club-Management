@@ -1,7 +1,9 @@
 A simple club management app based on Java. 
 
 On it's beta version capable of getting users into a file etudiants.txt
-![alt text](https://drive.google.com/file/d/1MZr2lm5_RwJ7CulLRlXZ4jV_1O8aHLB5/view?usp=sharing)
+![alt text](https://github.com/moncifem/Club-Management/blob/main/build/App%20screen.jpg)
+![alt text](https://github.com/moncifem/Club-Management/blob/main/build/App2%20screen.jpg)
+![alt text](https://github.com/moncifem/Club-Management/blob/main/build/App3%20screen.jpg)
 
 Future version may have additional and more control over the app such as modifiying users informations.
 
